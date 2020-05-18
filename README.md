@@ -149,3 +149,7 @@ Useful links for Data Visualization -
 7) Interactive Data Visualization in Python With Bokeh.
 (https://lnkd.in/fEfQAvg)
 
+My links added on 19th May - 
+====================================
+1) Learn languages
+https://data-flair.training/
