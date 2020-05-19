@@ -9,7 +9,9 @@ MUST READ ARTICLES FOR DATA SCIENCE ENTHUSIAST.
 
 (https://lnkd.in/fmcFyN7)
 
-D) Just a Dummy question.
+D) Just a Dummy line
+
+This is just a line for git demo.
 
 3) 8 Essential Tips for People starting a Career in Data Science.
 (https://lnkd.in/f5vUg6i)
